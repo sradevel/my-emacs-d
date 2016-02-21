@@ -1,0 +1,15 @@
+ac-comphist.dat
+/auto-save-list/**
+/.ido.last
+/.slime-history.eld
+/.eshell/
+/eshell/**
+/.smex-items
+/dotemacs.el
+/.ssh/
+/.emacs.d/plugins/msel/
+session.*
+tramp
+/var/*
+/url/*
+/elpa
